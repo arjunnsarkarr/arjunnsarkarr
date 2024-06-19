@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ARJUN SARKAR</h1>
-<h3 align="center">A Passionate FULL-STACK developer from India</h3>
+<h3 align="center">A Passionate FULL-STACK Web Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunnsarkarr&label=Profile%20views&color=0e75b6&style=flat" alt="arjunnsarkarr" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/arjunnsarkarr](https://github.com/arjunnsarkarr)
 
-- 💬 Ask me about **REACT , EXPRESS JS**
+- 💬 Ask me about **REACT , NODE JS**
 
 - 📫 How to reach me **arjunsarkar8756@gmail.com**
 
